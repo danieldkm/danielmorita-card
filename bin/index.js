@@ -4,6 +4,8 @@
 // Pull in our modules
 const boxen = require('boxen');
 const chalk = require('chalk');
+// import boxen from "boxen";
+// import chalk from "chalk";
 
 // Because we like console, and captains.log sounds cool
 const captains = console;

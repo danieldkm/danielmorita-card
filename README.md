@@ -3,7 +3,7 @@
 Desenvolvedor full stack na TMOV.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/danieldkm/danielmorita-card/blob/master/LICENSE) 
-[![npm version](https://badge.fury.io/js/%40americoneto1%2Fcard.svg)](https://www.npmjs.com/package/@danielmorita/card)
+[![npm version](https://badge.fury.io/js/@danielmorita%2Fcard.svg)](https://www.npmjs.com/package/@danielmorita/card)
 
 ## Uso
 
