@@ -1,0 +1,45 @@
+{
+  "name": "@danielmorita/card",
+  "version": "1.0.0",
+  "description": "Personal card",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieldkm/danielmorita-card.git"
+  },
+  "author": "Daniel K. Morita <danielmorita@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "danielmorita-card": "./bin/index.js"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "semantic-release": "semantic-release",
+    "commit": "git-cz"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/gitlab": "^9.4.2",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.1",
+    "semantic-release": "^19.0.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2"
+  }
+}
