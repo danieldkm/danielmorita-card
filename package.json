@@ -2,7 +2,8 @@
   "name": "@danielmorita/card",
   "version": "1.0.1",
   "description": "Personal card",
-  "main": "index.js",
+  "private": false,
+  "main": "/bin/index.js",
   "publishConfig": {
     "access": "public"
   },
