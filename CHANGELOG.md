@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/danieldkm/danielmorita-card/compare/v1.0.1...v1.0.2) (2022-10-20)
+
+
+### Bug Fixes
+
+* update package ([4a50827](https://github.com/danieldkm/danielmorita-card/commit/4a508276c6fdee34892aa602f1a919d405b8b1fc))
+
 ## [1.0.1](https://github.com/danieldkm/danielmorita-card/compare/v1.0.0...v1.0.1) (2022-10-20)
 
 
