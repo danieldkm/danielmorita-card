@@ -19,7 +19,7 @@ const options = {
 const data = {
   name: chalk.white('Daniel Keyti Morita /'),
   handle: chalk.cyan('Dev'),
-  work: chalk.white('Desenvolvedor FullStack'),
+  work: chalk.white('Desenvolvedor Full Stack'),
   twitter: chalk.cyan('https://twitter.com/danielkmorita'),
   github: chalk.cyan('https://github.com/danieldkm'),
   linkedin: chalk.cyan('https://linkedin.com/in/daniel-k-morita-7b928831'),
